@@ -16,7 +16,7 @@ You can read more about [GitHub Actions and workflows components](https://docs.g
 
 ## 1 - Implement your first workflow with GitHub Actions
 
-### 1.1 - Create a "Helo World" workflow
+### 1.1 - Create a "Hello World" workflow
 
 Enough talking. Let's create our very first GitHub Actions workflow!
 
